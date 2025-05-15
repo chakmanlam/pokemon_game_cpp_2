@@ -1,5 +1,7 @@
 Pokémon Console Game
+
 A simple text-based Pokémon-inspired adventure game written in C++. This game allows players to choose a starter Pokémon, battle wild Pokémon, and face off against a rival trainer.
+
 🎮 Game Features
 
 Choose Your Starter: Select from classic starter Pokémon - Charmander, Bulbasaur, or Squirtle
@@ -88,5 +90,6 @@ Items and Pokéballs
 More areas to explore
 
 🎮 Enjoy the Game!
+
 This simple Pokémon-inspired game offers a nostalgic experience reminiscent of the early Pokémon games. While it doesn't have all the features of the commercial games, it provides a fun introduction to the world of Pokémon through a console interface.
 Have fun on your Pokémon adventure!
