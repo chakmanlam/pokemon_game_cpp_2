@@ -8,6 +8,9 @@ class Game {
 private:
     Trainer* player;
     Trainer* rival;
+    Pokemon* rivalPokemon;
+    std::string rivalName;
+    
 
 public:
     Game();
@@ -19,6 +22,9 @@ public:
     void exploreWorld();
     bool handleWildBattle();
     void pokemonCenter();
+    void postBattlePrompt();
+    bool handleRivalBattle();
+
 };
 
 #endif
